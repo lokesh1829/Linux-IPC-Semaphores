@@ -121,11 +121,17 @@ int main() {
 ~~~
 
 ## OUTPUT
+~~~
 $ ./sem.o 
+~~~
+<img width="534" height="575" alt="image" src="https://github.com/user-attachments/assets/5600b93c-7eaa-4edf-9cc5-82a696eb2931" />
 
 
+
+~~~
 $ ipcs
-
+~~~
+<img width="583" height="113" alt="image" src="https://github.com/user-attachments/assets/fc393823-ff58-4aae-9a37-6ad5b906f27f" />
 
 
 
